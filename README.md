@@ -1,8 +1,10 @@
 # SentimentAnalysis_Python
 
-pip intall textblob
+pip install textblob
 
 pip install NLTK
+
+pip install wordcloud
 
 import nltk
 
