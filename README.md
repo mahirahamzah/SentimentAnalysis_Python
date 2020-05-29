@@ -11,7 +11,7 @@ Farfetch is an online luxury fashion retail platform that sells products from ov
 Trustpilot.com is a Danish consumer review website founded in Denmark in 2007 which hosts reviews of businesses worldwide.
 
 
-###Install
+### Install
 
 pip install textblob
 
@@ -28,7 +28,7 @@ nltk.download('punkt')
 nltk.download('wordnet')
 
 
-###Reading source
+### Reading source
 
 https://towardsdatascience.com/nlp-for-beginners-cleaning-preprocessing-text-data-ae8e306bef0f
 
